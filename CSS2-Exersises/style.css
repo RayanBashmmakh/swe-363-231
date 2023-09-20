@@ -1,0 +1,55 @@
+body{
+    font-family: 'Lucida Sans';
+    color: #dc6900;
+}
+p{
+    color: #eb8c00;
+}
+
+th, td{
+    text-transform: uppercase;
+    color: #602320;
+}
+a{
+    color: #dc6900;
+}
+
+em{
+    color: #a32020;
+}
+
+.top{
+    background-color: #ff4b01;
+}
+
+h1,h2,h3 {
+    text-transform:capitalize;
+  }
+
+table, th, td{
+    border: 2px solid #e0301e;
+}
+
+header {
+    background-color: #602320;
+    padding: 40px;
+  }
+  
+th,td{
+    padding:5px;
+  }
+  h2 {
+    border-bottom:1px solid #000000;
+  }
+
+  tbody tr:hover, tbody tr:hover td{
+    background-color:#eb8c00;
+  }
+  tbody tr:nth-child(odd){
+    background-color: #cccccc;
+  }
+  .product{
+    background-color: #602320;
+    padding: 10px;
+    margin: 10px 0px;
+  }
